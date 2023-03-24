@@ -1,0 +1,46 @@
+{
+	"data": {
+		"oid": 78,
+		"title": "李燕   中国卫计委心理治疗师     全国十佳金牌健康讲师",
+		"summary": "此处为静态调用信息，如果有后台，可实现动态调用数据",
+		"content": " <br><br><br><br>一线心理咨询培训12年，个案咨询累计超4000小时，督导超200小时。<br><br><br><br><br>曾参加CAPA（中美精神分析联盟）的心理咨询督导和研讨、教育部和联合国儿基会主办的《社会情感学习（SEL）与基础教育质量提升》研讨、北京市社会心理学会主办的《社会心理与道德建设》研讨、人社部认证的《婚姻情感咨询、家庭教育咨询》、《高级健康管理师》和《社会工作者》培训。<br><br><br> 咨询风格温暖亲和、敏锐有趣。 <img src='./static/images/444.jpg'>'<br><br><br>国家二级心理咨询师 <br><br><br>中国卫计委心理治疗师 <br><br><br>应用心理学研究生<br><br><br> 全国十佳金牌健康讲师 <br><br><br>萨提亚模式家庭咨询师<br><br><br> 陕西省健康管理行业促进会党支部书记。<br><br><<img src='./static/images/333.jpg'>'<br><br><br>擅长领域 <br><br><br>儿童、青少年问题、家庭成长、婚姻情感、抑郁焦虑等情绪管理。<br><br><br>咨询理念发现矛盾关键点、用问题引领改变。",
+		"tagUid": "15721a34adba068763b5a2fb1991fc57",
+		"blogSortUid": "db0d64ea7df409de5d2d747927cfa1a5",
+		"clickCount": 213,
+		"collectCount": 3,
+		"adminUid": "7621746caa93ce605e2de7143a3787b5",
+		"isPublish": "1",
+		"isOriginal": "1",
+		"author": "admin",
+		"articlesPart": "admin",
+		"level": 1,
+		"sort": 5,
+		"openComment": "1",
+		"type": "0",
+		"tagList": [{
+			"content": "郁闷委屈",
+			"clickCount": 167,
+			"sort": 6,
+			"uid": "15721a34adba068763b5a2fb1991fc57",
+			"status": 1,
+			"createTime": "2021-02-06 22:31:54",
+			"updateTime": "2021-02-19 22:29:44"
+		}],
+		"blogSort": {
+			"sortName": "情绪问题",
+			"content": "情绪问题",
+			"clickCount": 140,
+			"sort": 1002,
+			"uid": "db0d64ea7df409de5d2d747927cfa1a5",
+			"status": 1,
+			"createTime": "2019-08-31 09:50:03",
+			"updateTime": "2021-02-20 01:40:00"
+		},
+		"copyright": "此处为静态调用信息，如果有后台，可实现动态调用数据",
+		"uid": "3bc78f98bfabfbc37132674450dd4ac7",
+		"status": 1,
+		"createTime": "2021-01-22 16:37:29",
+		"updateTime": "2021-02-20 07:55:49"
+	},
+	"code": "success"
+}

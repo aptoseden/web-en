@@ -1,0 +1,11 @@
+{
+	"data": {
+		"nickName": "admin",
+		"avatar": "5639e952343d744e7534325a7f09aee4",
+		"photoList": ["./static/images/35.png"],
+		"status": 1,
+		"createTime": "2021-02-18 23:21:07",
+		"updateTime": "2021-02-18 23:21:07"
+	},
+	"code": "success"
+}

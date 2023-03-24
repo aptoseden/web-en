@@ -1,0 +1,143 @@
+{
+	"data": {
+		"sys_yes_no": {
+			"defaultValue": "1",
+			"list": [{
+				"oid": 13,
+				"dictLabel": "是",
+				"dictValue": "1",
+				"sort": 1,
+				"dictTypeUid": "5ce79da03dbedef627e8c6fb002b1a29",
+				"listClass": "success",
+				"isDefault": 1,
+				"isPublish": "1",
+				"createByUid": "1f01cd1d2f474743b241d74008b12333",
+				"updateByUid": "1f01cd1d2f474743b241d74008b12333",
+				"remark": "系统是否  是",
+				"uid": "30a04bbb52add36a22211f6b93fc882e",
+				"status": 1,
+				"createTime": "2020-02-17 21:56:35",
+				"updateTime": "2020-02-17 21:56:35"
+			}, {
+				"oid": 14,
+				"dictLabel": "否",
+				"dictValue": "0",
+				"sort": 0,
+				"dictTypeUid": "5ce79da03dbedef627e8c6fb002b1a29",
+				"listClass": "warning",
+				"isDefault": 0,
+				"isPublish": "1",
+				"createByUid": "1f01cd1d2f474743b241d74008b12333",
+				"updateByUid": "1f01cd1d2f474743b241d74008b12333",
+				"remark": "系统是否  否",
+				"uid": "490b20a757bc11fbb0b089a91c169830",
+				"status": 1,
+				"createTime": "2020-02-17 21:56:47",
+				"updateTime": "2020-02-17 21:56:47"
+			}]
+		},
+		"sys_feedback_status": {
+			"defaultValue": "0",
+			"list": [{
+				"oid": 46,
+				"dictLabel": "已开启",
+				"dictValue": "0",
+				"sort": 4,
+				"dictTypeUid": "6472ff63369e0118d2e0b907437d631d",
+				"listClass": "warning",
+				"isDefault": 1,
+				"isPublish": "1",
+				"createByUid": "1f01cd1d2f474743b241d74008b12333",
+				"updateByUid": "1f01cd1d2f474743b241d74008b12333",
+				"remark": "反馈状态 已开启",
+				"uid": "4dcc00f8566473020608d9609a1686e5",
+				"status": 1,
+				"createTime": "2020-03-16 09:20:38",
+				"updateTime": "2020-03-16 09:20:38"
+			}, {
+				"oid": 48,
+				"dictLabel": "已完成",
+				"dictValue": "2",
+				"sort": 3,
+				"dictTypeUid": "6472ff63369e0118d2e0b907437d631d",
+				"listClass": "success",
+				"isDefault": 0,
+				"isPublish": "1",
+				"createByUid": "1f01cd1d2f474743b241d74008b12333",
+				"updateByUid": "1f01cd1d2f474743b241d74008b12333",
+				"remark": "反馈状态 已完成",
+				"uid": "d350119289186d520e0ccbb9b320e07a",
+				"status": 1,
+				"createTime": "2020-03-16 09:21:13",
+				"updateTime": "2020-03-16 09:21:13"
+			}, {
+				"oid": 47,
+				"dictLabel": "进行中",
+				"dictValue": "1",
+				"sort": 2,
+				"dictTypeUid": "6472ff63369e0118d2e0b907437d631d",
+				"listClass": "primary",
+				"isDefault": 0,
+				"isPublish": "1",
+				"createByUid": "1f01cd1d2f474743b241d74008b12333",
+				"updateByUid": "1f01cd1d2f474743b241d74008b12333",
+				"remark": "反馈状态 进行中",
+				"uid": "5f554b9bae92a1d630a1b89b8f88bc65",
+				"status": 1,
+				"createTime": "2020-03-16 09:20:56",
+				"updateTime": "2020-03-16 09:20:56"
+			}, {
+				"oid": 49,
+				"dictLabel": "已拒绝",
+				"dictValue": "3",
+				"sort": 1,
+				"dictTypeUid": "6472ff63369e0118d2e0b907437d631d",
+				"listClass": "danger",
+				"isDefault": 0,
+				"isPublish": "1",
+				"createByUid": "1f01cd1d2f474743b241d74008b12333",
+				"updateByUid": "1f01cd1d2f474743b241d74008b12333",
+				"remark": "反馈状态 已拒绝",
+				"uid": "614a593ba613eb6f5c591f2d2430538a",
+				"status": 1,
+				"createTime": "2020-03-16 09:21:33",
+				"updateTime": "2020-03-16 09:21:33"
+			}]
+		},
+		"sys_user_sex": {
+			"defaultValue": "1",
+			"list": [{
+				"oid": 6,
+				"dictLabel": "男",
+				"dictValue": "1",
+				"sort": 2,
+				"dictTypeUid": "e2fa1d1024a2570f13ec7f684c08bd25",
+				"isDefault": 1,
+				"isPublish": "1",
+				"createByUid": "1f01cd1d2f474743b241d74008b12333",
+				"updateByUid": "1f01cd1d2f474743b241d74008b12333",
+				"remark": "性别 男",
+				"uid": "cc7cc52fbe8b7b4c89a6f1670d09c060",
+				"status": 1,
+				"createTime": "2020-02-16 20:49:40",
+				"updateTime": "2020-02-16 20:49:40"
+			}, {
+				"oid": 7,
+				"dictLabel": "女",
+				"dictValue": "2",
+				"sort": 0,
+				"dictTypeUid": "e2fa1d1024a2570f13ec7f684c08bd25",
+				"isDefault": 0,
+				"isPublish": "1",
+				"createByUid": "1f01cd1d2f474743b241d74008b12333",
+				"updateByUid": "1f01cd1d2f474743b241d74008b12333",
+				"remark": "性别 女",
+				"uid": "0cb01485ad75f7ec37a29d388e7d6013",
+				"status": 1,
+				"createTime": "2020-02-16 20:49:56",
+				"updateTime": "2020-02-16 20:49:56"
+			}]
+		}
+	},
+	"code": "success"
+}
